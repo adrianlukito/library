@@ -11,4 +11,12 @@ class LibraryLog {
             Log.d(TAG, "message")
         }
     }
+
+    internal fun asd() {
+        Log.d(TAG, "TEST")
+    }
+
+    fun dsa() {
+        Log.d(TAG, "DSA")
+    }
 }
