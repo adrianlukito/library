@@ -8,7 +8,7 @@ class LibraryLog {
         private const val TAG = "LibraryLog"
 
         fun debug(message: String) {
-            Log.d(TAG, "message")
+            Log.d(TAG, message)
         }
     }
 
